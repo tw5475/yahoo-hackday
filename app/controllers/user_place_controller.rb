@@ -1,0 +1,2 @@
+class UserPlaceController < ApplicationController
+end
